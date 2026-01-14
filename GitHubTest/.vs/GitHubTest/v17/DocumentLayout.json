@@ -1,12 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\699635\\GitHub\\PracticeGithub\\GitHubTest\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEDAC32-61F6-4567-8DB5-5CF13513225D}|GitHubTest\\GitHubTest.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\699635\\github\\practicegithub\\githubtest\\githubtest\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\699635\\GitHub\\PracticeGithub\\GitHubTest\\GitHubTest\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "GitHubTest\\ScaffoldingReadMe.txt",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\699635\\GitHub\\PracticeGithub\\GitHubTest\\GitHubTest\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "GitHubTest\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-14T15:08:05.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
