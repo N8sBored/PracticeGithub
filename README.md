@@ -1,7 +1,8 @@
-# PracticeGithub
+# PracticeGithub ☺
 
 what
 huh
 
 Sam²
 
+◙◙◙◙◙◙◙◙◙♪♪♪♪♪♪♫♫♫♫♫►►►►►►◄◄◄◄◄◄¶¶¶¶¶§§§§§↨↨↨↨↨↨↨
